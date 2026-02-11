@@ -8,7 +8,7 @@
 <!-- Profile Views Counter — https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=osker35&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
   [![LinkedIn](https://img.shields.io/badge/-Emre%20Sudi%20Ulker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-sudi-ulker-17b2a1325/)
   [![HackTheBox](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://ctf.hackthebox.com/user/profile/901399)
   [![Email](https://img.shields.io/badge/-emreulker35@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emreulker35@gmail.com)
@@ -78,17 +78,17 @@ Supported backend website coding, patched vulnerabilities in existing projects, 
 <!-- GitHub Readme Stats — https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub Streak Stats — https://github.com/DenverCoder1/github-streak-stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" height="180" />
+  <img src="https://vercel-6qwhn4cpp-osker35s-projects.vercel.app/api?username=osker35&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osker35&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" height="180" />
+  <img src="https://vercel-6qwhn4cpp-osker35s-projects.vercel.app/api/top-langs/?username=osker35&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" height="180" />
 </div>
 
 <!-- GitHub Profile Trophy — https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=osker35&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ When I'm not exploring digital rabbit holes, you can find me **producing music**
   
   <!-- Snake Animation — https://github.com/Platane/snk -->
   <!-- Uncomment below after setting up the GitHub Action in your profile repo -->
-  <!-- <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/osker35/osker35/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" />
   
