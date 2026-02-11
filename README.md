@@ -75,20 +75,22 @@ Supported backend website coding, patched vulnerabilities in existing projects, 
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak Stats — https://github.com/DenverCoder1/github-streak-stats -->
+<!-- GitHub Streak Stats — https://streak-stats.demolab.com (works out of the box) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=osker35&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=osker35&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
 </div>
 
-<!-- GitHub Stats via github-readme-stats (mirror instance) -->
+<br/>
+
+<!-- GitHub Profile Summary Cards — generated via GitHub Actions -->
+<!-- To enable: create .github/workflows/profile-summary-cards.yml in your osker35/osker35 repo (see instructions below) -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osker35&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osker35&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osker35&theme=chartreuse_dark" alt="Profile Details" />
 </div>
 
-<!-- GitHub Profile Trophy — https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osker35&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osker35&theme=chartreuse_dark" alt="Repos per Language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osker35&theme=chartreuse_dark" alt="Stats" height="180" />
 </div>
 
 ---
