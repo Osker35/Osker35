@@ -75,15 +75,15 @@ Supported backend website coding, patched vulnerabilities in existing projects, 
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Readme Stats — https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub Streak Stats — https://github.com/DenverCoder1/github-streak-stats -->
 <div align="center">
-  <img src="https://vercel-6qwhn4cpp-osker35s-projects.vercel.app/api?username=osker35&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osker35&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=osker35&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" height="180" />
 </div>
 
+<!-- GitHub Stats via github-readme-stats (mirror instance) -->
 <div align="center">
-  <img src="https://vercel-6qwhn4cpp-osker35s-projects.vercel.app/api/top-langs/?username=osker35&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osker35&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osker35&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" height="180" />
 </div>
 
 <!-- GitHub Profile Trophy — https://github.com/ryo-ma/github-profile-trophy -->
